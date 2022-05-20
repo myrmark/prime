@@ -1,0 +1,2 @@
+# prime
+ Cisco configuration
